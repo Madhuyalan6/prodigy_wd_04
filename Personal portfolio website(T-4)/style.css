@@ -1,0 +1,72 @@
+/* General Styles */
+body {
+    font-family: 'Helvetica Neue', sans-serif; /* Changed to a more modern font */
+    margin: 0;
+    padding: 0;
+    background-color: #f0f4f8; /* Soft light blue background */
+  }
+  
+  /* Header Section */
+  header {
+    background: linear-gradient(120deg, #48c6ef, #6f86d6); /* Gradient from light blue to lavender */
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 3rem;
+    margin: 0;
+  }
+  
+  header p {
+    font-size: 1.2rem;
+  }
+  
+  header span {
+    color: #d3116c; /* Soft amber for emphasis */
+  }
+  
+  /* About Section */
+  #about {
+    padding: 50px;
+    text-align: center;
+    background-color: #e8f5e9; /* Light green background */
+  }
+  
+  /* Projects Section */
+  #projects {
+    background-color: #ffffff; /* Keeping it white for clarity */
+    padding: 50px;
+  }
+  
+  .project {
+    margin-bottom: 30px;
+  }
+  
+  .project h3 {
+    font-size: 1.5rem;
+    color: #7b1fa2; /* Deep purple for project titles */
+  }
+  
+  /* Skills Section */
+  #skills {
+    background-color: #ffe0b2; /* Light peach background */
+    padding: 50px;
+    text-align: center;
+  }
+  
+  /* Contact Section */
+  #contact {
+    background: #455a64; /* Dark teal background */
+    color: white;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  form {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  
